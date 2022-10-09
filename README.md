@@ -18,7 +18,7 @@ Like in NIMA, DenseNet was finetuned on the [Aesthetic Visual Analysis (AVA)](ht
 
 # Example Usage
 ```
-python main.py images/dog.jpg
+python main.py
 ```
 ```
 Probability distribution of 1-10 rating scale
